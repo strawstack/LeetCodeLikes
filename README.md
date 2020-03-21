@@ -1,6 +1,6 @@
 # LeetCodeLikes
 
-Getting the likes and dislikes for every leet code problem using GraphQL and nodeJS
+Get the likes and dislikes for every leet code problem using GraphQL and nodeJS
 
 # How to Use
 
